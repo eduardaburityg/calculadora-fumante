@@ -1,0 +1,26 @@
+Calculos pessoas não fumantes: 
+
+selecionar: qual melhor descreve seu hábito com cigarro? 
+
+1. fumo todos dias
+2. fumo ocasionalmente (festas, fins de semana, etc.)
+3. já comprei alguns maços, mas fumo muito pouco por mês
+
+
+fuma ocasionamente: 
+ - cigarros por mes
+ - anos fumando
+ - preço médio 
+ 
+ cigarros fumados = cigarros por mês x 12 (12 meses dos anos) x anos 
+ minutos de vida perdidos = cigarros fumados X 20 min
+ dias de vida perdido= minutos / 1440 (converter minutos em dias - 1 dia tem 1440 minutos) 
+
+ gasto total = (cigarros fumados/20) X preço do cigarro
+ 
+
+tipo 3 - já compra maços por mês
+ - quantos maços voce compra por mês?
+ - há quantos anos você faz isso? 
+ 
+ total de cigarros = maços por mes X tantos cigarros X 12 meses X anos (que a pessoa informa) 
